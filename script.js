@@ -30,4 +30,5 @@ if(navigator.geolocation){
             console.log("We are unable to determine your location");
         }
     )
+    console.log("this is for testing git");
 }
